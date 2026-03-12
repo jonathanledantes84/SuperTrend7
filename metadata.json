@@ -1,0 +1,5 @@
+{
+  "name": "Bybit SuperTrend Bot",
+  "description": "Extensión de Chrome: Bot de trading automatizado para Bybit Spot utilizando el indicador SuperTrend. Monitoreo en tiempo real y ejecución automática directamente desde tu navegador.",
+  "requestFramePermissions": ["geolocation"]
+}
